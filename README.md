@@ -1,5 +1,8 @@
 # Tableau de bord pour l'identification des besoins en accès à l'eau potable
 
+![Logo ](https://github.com/user-attachments/assets/13f25760-b33b-4d36-86c2-cbeab300b974)
+
+
 Dans le cadre de ma mission en tant que consultant data analyst pour l’ONG **DWFA** (Drinking Water For All), j'ai pour objectif de développer un tableau de bord permettant d'identifier les pays ayant des difficultés d'accès à l’eau potable et de prioriser les efforts d’intervention.
 
 ## L'ONG DWFA se spécialise dans trois domaines principaux :
