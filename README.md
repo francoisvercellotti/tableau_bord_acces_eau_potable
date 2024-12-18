@@ -62,7 +62,7 @@ Les résultats ont été présentés sous la forme d'un tableau de bord interact
 ### Aperçu du tableau de bord final
 
 <div align="center">
-  <img src=![image](https://github.com/user-attachments/assets/aa2f760d-126c-4e74-8d56-a70302843b1d)
+  <img src="https://github.com/user-attachments/assets/aa2f760d-126c-4e74-8d56-a70302843b1d"
  alt="Aperçu du tableau de bord" width="800"/>
 </div>
 
