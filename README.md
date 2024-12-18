@@ -27,8 +27,10 @@ Le tableau de bord a pour mission de :
 2. **Création du blueprint** : Un document sous forme de blueprint [ici](Blueprint.docx) guidera la conception du tableau de bord.
 3. **Mockup basse fidélité** : Un mockup permettra de poser les bases du tableau de bord avant de passer à sa construction.
 
-![image](https://github.com/user-attachments/assets/a4fa15e7-2e0f-4daf-a742-b498d04d6ea9)
 
+<div align="center">
+  <img src=![image](https://github.com/user-attachments/assets/a4fa15e7-2e0f-4daf-a742-b498d04d6ea9) alt="Aperçu du tableau de bord" width="800"/>
+</div>
 
 ## Compétences mobilisées
 
@@ -52,11 +54,26 @@ Le tableau de bord a pour mission de :
    - Présentation des résultats sous forme de graphiques intuitifs et exploitables.  
    - Mise en avant des insights pour orienter les prises de décision stratégiques.
 
-![image](https://github.com/user-attachments/assets/6b524f33-1b1e-47f5-82e7-6e9b4b8040ff)
+Les résultats ont été présentés sous la forme d'un tableau de bord interactif illustrant :  
+- Les indicateurs clés à l’échelle mondiale, continentale, et nationale.  
+- Les évolutions temporelles et les visualisations géographiques.
 
-![image](https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea)
+### Aperçu du tableau de bord final
 
-![image](https://github.com/user-attachments/assets/b6f81615-8d7b-4fa1-856e-22bd12108ca1)
+<div align="center">
+  <img src=![image](https://github.com/user-attachments/assets/6b524f33-1b1e-47f5-82e7-6e9b4b8040ff) alt="Aperçu du tableau de bord" width="800"/>
+</div>
+
+<div align="center">
+  <img src=![image](https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea)
+ alt="Aperçu du tableau de bord" width="800"/>
+</div>
+
+<div align="center">
+  <img src=![image](https://github.com/user-attachments/assets/b6f81615-8d7b-4fa1-856e-22bd12108ca1)alt="Aperçu du tableau de bord" width="800"/>
+</div>
+
+
 
 
 ---
