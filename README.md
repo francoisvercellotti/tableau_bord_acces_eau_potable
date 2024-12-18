@@ -26,3 +26,41 @@ Le tableau de bord a pour mission de :
 1. **Synthèse des demandes** : Un document de synthèse présentera les indicateurs choisis, s'appuyant sur le compte rendu de réunion disponible [ici](CR+réunion+lancement+DWFA.pdf).
 2. **Création du blueprint** : Un document sous forme de blueprint [ici](Blueprint.docx) guidera la conception du tableau de bord.
 3. **Mockup basse fidélité** : Un mockup permettra de poser les bases du tableau de bord avant de passer à sa construction.
+
+
+
+## Compétences mobilisées
+
+1. **Gestion de projet**  
+   - Organisation des étapes clés pour garantir la livraison dans les délais.  
+   - Collaboration avec les parties prenantes pour ajuster les livrables aux attentes.
+
+2. **Traitement des données**  
+   - Nettoyage, transformation, et structuration des données pour optimiser leur exploitation.  
+   - Agrégation des données à différentes échelles (mondiale, continentale, nationale).
+
+3. **Analyse des données**  
+   - Identification des indicateurs pertinents pour répondre aux besoins spécifiques.  
+   - Utilisation de données quantitatives et qualitatives pour des analyses approfondies.
+
+4. **Conception de tableaux de bord**  
+   - Création de visualisations interactives et claires adaptées à l'auditoire.  
+   - Intégration de filtres dynamiques pour une exploration flexible des données.
+
+5. **Visualisation et storytelling avec les données**  
+   - Présentation des résultats sous forme de graphiques intuitifs et exploitables.  
+   - Mise en avant des insights pour orienter les prises de décision stratégiques.
+
+---
+
+## Outils utilisés
+
+1. **Power BI**  
+   - Construction de tableaux de bord interactifs avec visualisations avancées.  
+   - Utilisation de cartes géographiques, séries temporelles, et filtres dynamiques.
+
+2. **Power Query**  
+   - Préparation et transformation des données pour une intégration fluide dans Power BI.
+
+3. **GitHub**  
+   - Gestion des versions et collaboration pour le suivi du projet.
