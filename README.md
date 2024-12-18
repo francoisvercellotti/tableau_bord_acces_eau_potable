@@ -29,8 +29,9 @@ Le tableau de bord a pour mission de :
 
 
 <div align="center">
-  <img src=![image](https://github.com/user-attachments/assets/a4fa15e7-2e0f-4daf-a742-b498d04d6ea9) alt="Aperçu du tableau de bord" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a4fa15e7-2e0f-4daf-a742-b498d04d6ea9" alt="Aperçu du tableau de bord" width="800"/>
 </div>
+
 
 ## Compétences mobilisées
 
@@ -61,17 +62,17 @@ Les résultats ont été présentés sous la forme d'un tableau de bord interact
 ### Aperçu du tableau de bord final
 
 <div align="center">
-  <img src=![image](https://github.com/user-attachments/assets/6b524f33-1b1e-47f5-82e7-6e9b4b8040ff) alt="Aperçu du tableau de bord" width="800"/>
+  <img src="https://github.com/user-attachments/assets/6b524f33-1b1e-47f5-82e7-6e9b4b8040ff" alt="Aperçu du tableau de bord" width="800"/>
 </div>
 
 <div align="center">
-  <img src=![image](https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea)
- alt="Aperçu du tableau de bord" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Aperçu du tableau de bord" width="800"/>
 </div>
 
 <div align="center">
-  <img src=![image](https://github.com/user-attachments/assets/b6f81615-8d7b-4fa1-856e-22bd12108ca1)alt="Aperçu du tableau de bord" width="800"/>
+  <img src="https://github.com/user-attachments/assets/b6f81615-8d7b-4fa1-856e-22bd12108ca1" alt="Aperçu du tableau de bord" width="800"/>
 </div>
+
 
 
 
