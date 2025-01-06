@@ -33,7 +33,7 @@ Le tableau de bord a pour mission de :
 </div>
 
 
-## Compétences mobilisées
+## Compétences Acquises
 
 1. **Gestion de projet**  
    - Organisation des étapes clés pour garantir la livraison dans les délais.  
